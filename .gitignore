@@ -1,0 +1,7 @@
+# .gitignore
+.env
+exported_data/
+__pycache__/
+*.pyc
+*.csv
+.vscode/
